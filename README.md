@@ -87,7 +87,7 @@ while True:
 ## Output:
  
 ###Client:
- ![Screenshot 2025-05-21 223134](https://github.com/user-attachments/assets/80c89538-2cb4-421b-b424-0e4724f7dc2b)
+![Screenshot 2025-05-21 223134](https://github.com/user-attachments/assets/80c89538-2cb4-421b-b424-0e4724f7dc2b)
 
 ### Server:
 ![Screenshot 2025-05-21 223149](https://github.com/user-attachments/assets/5f890269-341a-42a5-98fa-3d0f91ac5ec4)
